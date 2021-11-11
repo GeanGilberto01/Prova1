@@ -1,0 +1,16 @@
+.col {
+    display: inline-block;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+.branco{
+    background-color: white;
+}
+
+.inferior{
+    position: fixed;
+    right: 0pt;
+}
